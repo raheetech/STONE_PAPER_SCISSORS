@@ -74,9 +74,23 @@
                             playerPoints.innerHTML = pPoints + 1;
                         }
                     }
+
+                    if (cPoints === 9) {
+                        alert("Computer is the winner!");
+                        resetGame();
+                    } else if (pPoints === 9) {
+                        alert("Player is the winner!");
+                        resetGame();
+                    }
+
                 }, 900);
             });
         });
+
+        function resetGame() {
+            computerPoints.innerHTML = 0;
+            playerPoints.innerHTML = 0;
+        }
     </script>
 </body>
 </html>
