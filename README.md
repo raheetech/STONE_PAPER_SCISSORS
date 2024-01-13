@@ -13,3 +13,16 @@ LINK:- https://www.raheetech.in/rps/ <BR>
 
 
 ![Screenshot (506)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/f9a246f6-e0f8-46a1-8a27-c9ed174f17b8)
+
+
+![Screenshot (506)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/c29fb5e8-6671-4628-8abd-da296d33e286)
+
+![Screenshot (512)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/817d7304-657a-4d42-8b7e-97e1295358cb)
+
+![Screenshot (511)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/a2c67633-fcc1-4007-8df6-9b2e71c7bc24)
+
+![Screenshot (510)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/e9826cef-86a9-48bf-8896-0867cd8cb164)
+
+![Screenshot (507)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/eac0778a-e810-4327-aba1-f804230ee947)
+
+![Screenshot (505)](https://github.com/raheetech/STONE_PAPER_SCISSORS/assets/137060785/3690c8c9-0713-40ff-a561-4f7c05cdc604)
